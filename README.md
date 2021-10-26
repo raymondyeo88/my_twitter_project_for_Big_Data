@@ -1,1 +1,1 @@
-# my_twitter_project_for_Big_Data
+# this is my first twitter project for Big Data written in Python to perform ETL processes and load into PostgreSQL
